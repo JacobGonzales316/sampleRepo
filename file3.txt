@@ -1,1 +1,3 @@
 file is file3.txt
+
+changes made in the local git repo
